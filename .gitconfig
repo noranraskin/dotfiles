@@ -1,0 +1,16 @@
+[user]
+	name = Noran Raskin
+	email = n.raskin@campus.tu-berlin.de
+[core]
+	editor = vi
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[init]
+	defaultbranch = master
+[web]
+	browser = google-chrome
+[merge]
+	tool = kdiff3
