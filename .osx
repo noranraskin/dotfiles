@@ -135,6 +135,13 @@ defaults write com.apple.dock showhidden -bool true
 defaults write com.apple.universalaccess reduceTransparency -bool true
 
 ###############################################################################
+# Time Machine                                                                #
+###############################################################################
+
+# Turn off Time Machine asking for new backup disk
+defaults write com.apple.TimeMachine DoNotOfferNewDisksForBackup -bool true
+
+###############################################################################
 # Safari & WebKit                                                             #
 ###############################################################################
 
