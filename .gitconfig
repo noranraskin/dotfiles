@@ -19,3 +19,5 @@
 	browser = google-chrome
 [merge]
 	tool = kdiff3
+[pull]
+	rebase = true
