@@ -8,6 +8,7 @@
 	insteadOf = https://gitlab.com/
 [core]
 	editor = vi
+	excludesfile = /Users/noran/.gitignore
 [color]
 	branch = auto
 	diff = auto
