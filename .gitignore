@@ -25,6 +25,10 @@
 .idea
 .vscode
 
+# Xcode #
+#########
+xcuserdata
+
 # Logs and databases #
 ######################
 *.log
