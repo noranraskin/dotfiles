@@ -3,7 +3,7 @@
 	email = n.raskin@campus.tu-berlin.de
 [core]
 	editor = vi
-	excludesfile = /Users/noran/.gitignore
+	excludesfile = ~/.gitignore
 [color]
 	branch = auto
 	diff = auto
