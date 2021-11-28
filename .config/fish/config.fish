@@ -14,3 +14,4 @@ fish_add_path /usr/local/opt/python@3.7/bin
 fish_add_path /usr/local/opt/python@3.8/bin
 fish_add_path /usr/local/opt/python@3.9/bin
 fish_add_path /usr/local/opt/python@3.10/bin
+fish_add_path /usr/local/sbin
