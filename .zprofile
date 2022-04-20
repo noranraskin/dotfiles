@@ -8,3 +8,4 @@
 export HOMEBREW_AUTO_UPDATE_SECS=604800
 
 export LC_ALL="es_US.UTF-8"
+export PATH="/opt/homebrew/bin:$PATH"
